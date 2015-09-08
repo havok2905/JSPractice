@@ -13,3 +13,12 @@
 
 ### Data Structures
 - Linked List
+- Binary Tree
+- Queue
+- Stack
+
+### Sorts
+- Bubble Sort
+- Insertion Sort
+- Quick Sort
+- Selection Sort
